@@ -1,11 +1,11 @@
 import './App.css'
-import Counter2 from "./chapter03_jsx/Counter2.jsx";
+import UseState2 from "./chapter03_jsx/UseState2.jsx";
 
 function App() {
 
   return (
     <>
-      <Counter2/>
+      <UseState2/>
     </>
   )
 }
